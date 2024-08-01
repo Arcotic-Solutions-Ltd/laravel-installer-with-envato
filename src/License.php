@@ -60,7 +60,13 @@ class License
 
     private function saveLicense(array $data): void
     {
-        file_put_contents(base_path('vendor/arcoticsolutions/laravel-installer-with-envato/license'), json_encode($data), LOCK_EX);
+        // Read the contents of agreement.md
+        $agreementPath = base_path('vendor/arcoticsolutions/laravel-installer-with-envato/agreement.md');
+        $agreementContent = file_get_contents($agreementPath);
+
+        // Write the contents to the license file
+        $licensePath = base_path('vendor/arcoticsolutions/laravel-installer-with-envato/license');
+        file_put_contents($licensePath, $agreementContent, LOCK_EX);
     }
 
     private function removeLicense(): void
