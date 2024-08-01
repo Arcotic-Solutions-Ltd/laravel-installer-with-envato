@@ -1,7 +1,7 @@
 Copyright (c) 2024 Arcotic Solutions
 
 License and Use:
-License Grant: Upon purchase, you are granted a non-exclusive, non-transferable license to use the SastaFleet Vehicle Reservation/Booking System in accordance with the terms set forth by Envato Market (CodeCanyon).
+License Grant: Upon purchase, you are granted a non-exclusive, non-transferable license to use the SastaFleet - Vehicle Reservation/Booking System in accordance with the terms set forth by Envato Market (CodeCanyon).
 
 Permitted Use:
 You may use the system for personal or commercial projects, provided that you comply with the terms of this license.
@@ -19,7 +19,3 @@ Support is provided as per the Envato Market guidelines. Support includes bug fi
 
 Images & Media:
 Images and other media used/showed in demo are not included in licensed/purchased product.
-
-
-
-

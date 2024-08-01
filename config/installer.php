@@ -21,7 +21,7 @@ return [
      * Here you have to specify the api key that you will use to verify the purchase code
      */
     'license' => [
-        'script' => 'Fleetme - Vehicle Reservation System',
+        'script' => 'SastaFleet - Vehicle Reservation/Booking System',
         'platform' => 'envato',
         'product_id' => '',
         'api_url' => 'https://license.arcoticsolutions.com',
