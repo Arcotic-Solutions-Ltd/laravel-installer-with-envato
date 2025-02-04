@@ -47,3 +47,7 @@ Please review [our security policy](../../security/policy) on how to report secu
 ### License
 
 The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
+
+## Dedicated to the Memory of Rohingya Genocide Martyrs
+
+This project is dedicated to the memory of the martyrs of the [Rohingya genocide](https://en.wikipedia.org/wiki/Rohingya_genocide). May their struggles never be forgotten. #ProtectTheRohingya #StopRohingyaGenocide
